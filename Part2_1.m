@@ -10,9 +10,7 @@ zz = xx.^2 + 2*yy.^2;
 figure(1);
 surfl(xx,yy,zz);
 xlabel('x');
-xlabel('x');
 ylabel('y');
-zlabel('Function f(x,y)');
 zlabel('Function f(x,y)');
 grid on;
 
